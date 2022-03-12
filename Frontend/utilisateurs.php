@@ -702,7 +702,7 @@
 											<li
 												class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4615">
 												<a href="landing/index.html"><span
-														class="qodef-menu-item-text">Landing</span></a></li>
+														class="qodef-menu-item-text">Landing</span></a></li>           
 										</ul>
 									</div>
 								</div>
